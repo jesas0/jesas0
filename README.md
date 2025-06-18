@@ -4,9 +4,9 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Sou apaixonado por tecnologia, programação e aprendizado contínuo.
-- 🎯 Sempre em busca de novos desafios e oportunidades para crescer.
-- 🌱 Atualmente estou aprendendo novas linguagens e frameworks.
+- 👨‍💻 Sou apaixonado por tecnologia, programação inovaçoes.
+- 🎯 Sempre em busca de novos desafios e oportunidades para aprender mais.
+- 🌱 Tipo 7 do eneagrama, sempre em busca de novos desafios.
 
 ## 💻 Tecnologias & Ferramentas
 
