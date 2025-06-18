@@ -1,10 +1,5 @@
 <h1 align="left">Olá, eu sou o Jesas 👋</h1>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jesas0&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesas0&show_icons=true&theme=default)
 
 ## 🚀 Sobre mim
 
@@ -26,6 +21,6 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesas0&show_icons=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jesas0&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesas0&layout=compact&theme=default)
