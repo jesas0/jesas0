@@ -5,8 +5,8 @@
 ## 🚀 Sobre mim
 
 - 👨‍💻 Sou apaixonado por tecnologia, programação inovaçoes.
-- 🎯 Sempre em busca de novos desafios e oportunidades para aprender mais.
-- 🌱 Tipo 7 do eneagrama, sempre em busca de novos desafios.
+- 🎯 Sempre em busca de novas oportunidades para aprender mais.
+- 🌱 Tipo 7 do Eneagrama — fascinado por novos desafios e movido pela curiosidade constante.
 
 ## 💻 Tecnologias & Ferramentas
 
