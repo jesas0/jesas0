@@ -7,6 +7,8 @@
 - 👨‍💻 Sou apaixonado por tecnologia, programação inovaçoes.
 - 🎯 Sempre em busca de novas oportunidades para aprender mais.
 - 🌱 Tipo 7 do Eneagrama — fascinado por novos desafios e movido pela curiosidade constante.
+- 💹 Desenvolvedor para o mercado financeiro, com conhecimento intermediário/avançado em análise gráfica 📊.
+- 🛠️ Desenvolvedor para NinjaTrader (C#) e ProfitPro (NTSL).
 
 ## 💻 Tecnologias & Ferramentas
 
@@ -19,6 +21,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+## Proximas Tecnologias que quero me desafiar a aprender
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+</p>
 
 ## 📈 GitHub Stats
 
