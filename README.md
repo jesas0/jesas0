@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Jesas 👋</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jesas0&theme=default&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jesas0)](https://git.io/streak-stats)
 
 
 ## 🚀 Sobre mim
