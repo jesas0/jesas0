@@ -9,6 +9,16 @@
 - 🌱 Tipo 7 do Eneagrama — fascinado por novos desafios e movido pela curiosidade constante.
 - 💹 Desenvolvedor para o mercado financeiro, com conhecimento intermediário/avançado em análise gráfica 📊.
 - 🛠️ Desenvolvedor para NinjaTrader (C#) e ProfitPro (NTSL).
+- Tecnologias & Ferramentas (C#, JS, PHP, HTML5, CSS3. NODE...)
+- 
+## 🧩 (diversidade de experiências)
+
+- 💻 Tecnico em Informatica
+- 🔌 Tecnico em Eletronica basica e intermediaria 
+- 🏪 Proprietario da Loja e assistencia SampaioTecn
+- 🏥 Reparo e manutenção em esteiras ergométricas para clínicas e hospitais 
+- 🎨 Arte Finalista com especialidade em Corel Draw e Photoshop
+
 
 ## 💻 Tecnologias & Ferramentas
 
